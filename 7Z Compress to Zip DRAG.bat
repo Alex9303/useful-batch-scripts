@@ -1,0 +1,1 @@
+7z.exe a -tzip "%~dpn1.zip" "%~1"
