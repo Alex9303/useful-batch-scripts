@@ -1,0 +1,1 @@
+for /D %%a in ("*.*") do xcopy /y /d "file.bin" "%%a\"
