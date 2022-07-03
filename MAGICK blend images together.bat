@@ -1,0 +1,1 @@
+magick convert Base.png -background None -compose Lighten *.png -layers Flatten out.png
